@@ -21,3 +21,5 @@ Random color led controller for WS2812 chips in serial. Quick and dirty code.
 Так же не забудьте указать максимальное количество элементов ленты в константе count_led.
 
 Приятного праздника!
+
+https://youtu.be/qs_YFxL3LCI
